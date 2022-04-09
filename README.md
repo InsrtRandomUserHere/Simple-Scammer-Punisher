@@ -7,6 +7,3 @@ Make sure to replace the proper variables to your likings.<br>
 I have also provided a fake email and password generator in [functions.py](https://github.com/InsrtRandomUserHere/Simple-Scammer-Punisher/blob/main/functions.py) to be used if you need it.
 
 Note: Read the code
-
-```py
-True
